@@ -22,7 +22,7 @@ $ git clone git@github.com:Brandolt55/desafio_6-dnc.git
 
 ##### Acesse a pasta criada:
 ```sh
-$ cd challenge6-DNC
+$ cd desafio_6-dnc
 ```
 
 ---
@@ -104,7 +104,7 @@ ENGINE=InnoDB
 const dbConfig = {
   host: 'localhost',
   user: 'root',
-  password: 'seha',
+  password: 'senha',
   database: 'name_database',
 };
 ```
@@ -396,4 +396,4 @@ $ npm run dev
 
 ### Demonstração
 
-![UML](https://github.com/Brandolt55/desafio_6-dnc/blob/main/public/demonstration.mp4)
+![UML](https://github.com/Brandolt55/desafio_6-dnc/public/demonstration.mp4)
