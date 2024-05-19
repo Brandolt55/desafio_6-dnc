@@ -22,7 +22,7 @@ $ git clone git@github.com:Brandolt55/desafio_6-dnc.git
 
 ##### Acesse a pasta criada:
 ```sh
-$ cd challenge6-DNC
+$ cd desafio_6-dnc
 ```
 
 ---
