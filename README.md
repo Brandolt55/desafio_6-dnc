@@ -396,4 +396,4 @@ $ npm run dev
 
 ### Demonstração
 
-![UML](https://github.com/Brandolt55/desafio_6-dnc/public/demonstration.mp4)
+![UML](https://github.com/Brandolt55/desafio_6-dnc/blob/main/public/demonstration.gif)
